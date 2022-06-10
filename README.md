@@ -9,5 +9,3 @@ An interactive presentation will give you a first impression of what to expect o
 ## How to use the introductory guide presentation
 
 The introductory guide is provided as a HTML file. Download the file from GitHub and open it in a Browser. Now you can navigate through the slides, either by the navigation control on the bottom or by clicking on the Go-to-slide-buttons on the slides.
-
-[Please, klick me! I will bring you to the HTML file.](introductory_guide)
