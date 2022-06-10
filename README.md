@@ -6,6 +6,8 @@ We are very happy to have you here. To help you get started and to bridge the ti
 
 An interactive presentation will give you a first impression of what to expect over the next weeks. It will take you about one to three hours, depending on how much time you'll spend with the slides and if you will watch all the video material embedded. If a video doesn't suit you right now, feel free to skip it!
 
-## How to use the introductory guide presentation
+### How to use the introductory guide presentation
 
 The introductory guide is provided as a HTML file. Download the file from GitHub and open it in a Browser. Now you can navigate through the slides, either by the navigation control on the bottom or by clicking on the Go-to-slide-buttons on the slides.
+
+Either klick on this [link](introductory_guide/Data_Analytics_Mountain_Expedition_Version3.html.zip) or navigate to the introductory guide folder to download the zipped HTML file. You have to unzip the file before you can use it. Then open the file in your favorite browser in order to get started.
