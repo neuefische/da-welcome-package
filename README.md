@@ -10,4 +10,4 @@ An interactive presentation will give you a first impression of what to expect o
 
 The introductory guide is provided as a HTML file. Download the file from GitHub and open it in a Browser. Now you can navigate through the slides, either by the navigation control on the bottom or by clicking on the Go-to-slide-buttons on the slides.
 
-Either klick on this [link](introductory_guide/Data_Analytics_Mountain_Expedition_Version3.html.zip) or navigate to the introductory guide folder to download the zipped HTML file. You have to unzip the file before you can use it. Then open the file in your favorite browser in order to get started.
+Either klick on this link or navigate to the introductory guide folder to download the zipped HTML file. You have to unzip the file before you can use it. Then open the file in your favorite browser in order to get started.
