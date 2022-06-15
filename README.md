@@ -8,4 +8,4 @@ An interactive presentation will give you a first impression of what to expect o
 
 ### How to use the introductory guide presentation
 
-The introductory guide is provided as a HTML file. You can use this [link here](https://neuefische.github.io/da-welcome-package/) to start directly with the presentation. Now you can navigate through the slides via the navigation control on the bottom and by clicking on the Go-to-slide-buttons on the slides.
+The introductory guide is provided as a HTML file. You can use this link [https://neuefische.github.io/da-welcome-package/](https://neuefische.github.io/da-welcome-package/) to start directly with the presentation. Now you can navigate through the slides via the navigation control on the bottom and by clicking on the Go-to-slide-buttons on the slides.
