@@ -12,4 +12,4 @@ The introductory guide is provided as a HTML file. You can use this link [https:
 
 Now you can navigate through the slides via the navigation control on the bottom - you may need to scroll down a little bit - and by clicking on the Go-to-slide-buttons on the slides. There is also a Fullscreen option in the bottom right corner.
 
-Have fun!
+__Have fun!__
