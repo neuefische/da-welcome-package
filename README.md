@@ -28,7 +28,7 @@ In this repository we will cover the general concepts that you should be familia
 
 If you are not familiar with Google Colab, please start with [Intro to Colab notebook](Intro_to_Colab.ipynb) which shows you how to work with Colab.
 
-We are covering two aspects: python programming. In case you are not familiar with the following concepts please following the codealongs and reading material.
+We are covering in python programming: variables and types. In case you are not familiar with the following concepts please following the codealongs and reading material.
 
 - [Variables and types](programming/Python_Variables_Types.ipynb)
 
