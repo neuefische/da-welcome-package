@@ -13,3 +13,23 @@ The introductory guide is provided as a HTML file. You can use this link [https:
 Now you can navigate through the slides via the navigation control on the bottom - you may need to scroll down a little bit - and by clicking on the Go-to-slide-buttons on the slides. There is also a Fullscreen option in the bottom right corner.
 
 __Have fun!__
+
+### Before you start
+In order to have a common starting point it is important that you know how to use your Macbook and Zoom. We also ask you to have some basic knowledge of python. You do not need to install anything on your computer in order to work with the material, all material is browser based and we will be using [Google Colaboratory](https://colab.research.google.com/).
+In this repository we will cover the general concepts that you should be familiar with before the start of the bootcamp.
+
+## Macbook Tutorial
+- [Macbook Tutorial](https://www.youtube.com/watch?v=egK5BKEn87c)
+
+## Zoom Tutorial
+- [Zoom Basics](https://www.youtube.com/watch?v=x1CwZFiAyxY)
+
+## Python basics
+
+If you are not familiar with Google Colab, please start with [Intro to Colab notebook](Intro_to_Colab.ipynb) which shows you how to work with Colab.
+
+We are covering in python programming: variables and types. In case you are not familiar with the following concepts please following the codealongs and reading material.
+
+- [Variables and types](programming/Python_Variables_Types.ipynb)
+
+Do not forget, programming is a skill that gets better with practice, if this is your first time with python, you might need repetition. And we will practice this!
